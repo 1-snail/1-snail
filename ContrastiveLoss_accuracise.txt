@@ -1,0 +1,1 @@
+{"val": {"epoch": 1, "AMI_level0": 0.4406486625870927, "NMI_level0": 0.5459080297419803, "mean_average_precision_level0": 0.38866771569580877, "mean_average_precision_at_r_level0": 0.1349954399140822, "mean_reciprocal_rank_level0": 0.5991496443748474, "precision_at_1_level0": 0.47259359213057905, "r_precision_level0": 0.2363698745971299}}
